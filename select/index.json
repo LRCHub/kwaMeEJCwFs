@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "星寂夜",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-11T02:00:24.004632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星寂夜",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/01_星寂夜_ロクデナシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星寂夜",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_星寂夜_ロクデナシ.txt"
+    }
+  ]
+}
